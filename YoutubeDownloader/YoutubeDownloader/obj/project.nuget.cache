@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/tIfj0PHuu1sv0Tp1XviwK1e95oku/jz9UNHzkVVEzr1IxgiNe1PQXk5U9a2Yk842DkS3FXRWq+NsqibXF/pg==",
+  "dgSpecHash": "oojx/qL2P2BP8ePfsez3V+0BurOeRO4HDpgAfCNDgYpufA6MO1k55+JbSNaFW4YtmPw8qSQqAfYGKxj+4sKi9A==",
   "success": true,
-  "projectFilePath": "D:\\PROYECTOS\\YoutubeDowloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
+  "projectFilePath": "D:\\RepositoriosGit\\youtubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader\\YoutubeDownloader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

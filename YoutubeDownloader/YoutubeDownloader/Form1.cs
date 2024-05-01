@@ -45,6 +45,7 @@ namespace YoutubeDownloader
             }
             catch (Exception ex)
             {
+                descargando--;
                 Mensaje("Error al descrgar: " + ex.Message, Color.DarkRed);
             }
         }
